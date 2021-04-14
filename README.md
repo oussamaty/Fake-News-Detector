@@ -1,6 +1,6 @@
 # Plugin Fake News Detector
 
-A project made in the context of Coding Weeks, in its second phase.
+A Chrome Plugin that display a credibility score for the selected tweet.
 
 ## Membres
 
